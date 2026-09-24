@@ -43,3 +43,4 @@ body:
       description: If applicable, add screenshots to help explain your problem.
     validations:
       required: false
+      accept: ".png,.jpg,.jpeg,.gif,.svg,.webp"
